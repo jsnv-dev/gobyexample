@@ -38,6 +38,12 @@ To see the site locally:
 $ tools/serve
 ```
 
+or by using docker-compose:
+
+```
+$ docker-compose up
+```
+
 and open `http://127.0.0.1:8000/` in your browser.
 
 ### Publishing
